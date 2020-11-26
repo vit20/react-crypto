@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-crypto/static/css/main.ff2dc1e5.chunk.css",
+    "main.js": "/react-crypto/static/js/main.f7267931.chunk.js",
+    "main.js.map": "/react-crypto/static/js/main.f7267931.chunk.js.map",
+    "runtime-main.js": "/react-crypto/static/js/runtime-main.e1b60268.js",
+    "runtime-main.js.map": "/react-crypto/static/js/runtime-main.e1b60268.js.map",
+    "static/js/2.9b905bb5.chunk.js": "/react-crypto/static/js/2.9b905bb5.chunk.js",
+    "static/js/2.9b905bb5.chunk.js.map": "/react-crypto/static/js/2.9b905bb5.chunk.js.map",
+    "index.html": "/react-crypto/index.html",
+    "precache-manifest.3cd818b3f722040eaed584a36fc1fa6f.js": "/react-crypto/precache-manifest.3cd818b3f722040eaed584a36fc1fa6f.js",
+    "service-worker.js": "/react-crypto/service-worker.js",
+    "static/css/main.ff2dc1e5.chunk.css.map": "/react-crypto/static/css/main.ff2dc1e5.chunk.css.map",
+    "static/js/2.9b905bb5.chunk.js.LICENSE.txt": "/react-crypto/static/js/2.9b905bb5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-crypto/static/media/logo.c6440537.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1b60268.js",
+    "static/js/2.9b905bb5.chunk.js",
+    "static/css/main.ff2dc1e5.chunk.css",
+    "static/js/main.f7267931.chunk.js"
+  ]
+}
